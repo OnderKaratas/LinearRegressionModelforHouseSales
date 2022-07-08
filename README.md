@@ -1,5 +1,5 @@
 # LinearRegressionModelforHouseSales
-A linear regression model that predicts house sales
+A linear regression model that predicts house sales. **This is a task for RC Makers
 
 ## The Sources I used
 
@@ -28,3 +28,5 @@ A linear regression model that predicts house sales
   >[**Pandas API**](https://pandas.pydata.org/docs/reference/index.html#api)
   
  - I used a lot the [**Stack Overflow**](https://stackoverflow.com/) too.
+
+!()
