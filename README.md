@@ -29,4 +29,4 @@ A linear regression model that predicts house sales. **This is a task for RC Mak
   
  - I used a lot the [**Stack Overflow**](https://stackoverflow.com/) too.
 
-!()
+!(https://github.com/OnderKaratas/LinearRegressionModelforHouseSales/blob/main/undefined%20-%20Imgur.gif)
